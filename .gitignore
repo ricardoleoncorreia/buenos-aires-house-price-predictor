@@ -1,0 +1,7 @@
+# Folders
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+
+# Files
+*.csv
